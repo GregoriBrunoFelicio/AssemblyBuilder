@@ -1,0 +1,14 @@
+E:\Projects\AssemblyGenerator\bin\Debug\net9.0\AssemblyGenerator.exe
+E:\Projects\AssemblyGenerator\bin\Debug\net9.0\AssemblyGenerator.deps.json
+E:\Projects\AssemblyGenerator\bin\Debug\net9.0\AssemblyGenerator.runtimeconfig.json
+E:\Projects\AssemblyGenerator\bin\Debug\net9.0\AssemblyGenerator.dll
+E:\Projects\AssemblyGenerator\bin\Debug\net9.0\AssemblyGenerator.pdb
+E:\Projects\AssemblyGenerator\obj\Debug\net9.0\AssemblyGenerator.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\AssemblyGenerator\obj\Debug\net9.0\AssemblyGenerator.AssemblyInfoInputs.cache
+E:\Projects\AssemblyGenerator\obj\Debug\net9.0\AssemblyGenerator.AssemblyInfo.cs
+E:\Projects\AssemblyGenerator\obj\Debug\net9.0\AssemblyGenerator.csproj.CoreCompileInputs.cache
+E:\Projects\AssemblyGenerator\obj\Debug\net9.0\AssemblyGenerator.dll
+E:\Projects\AssemblyGenerator\obj\Debug\net9.0\refint\AssemblyGenerator.dll
+E:\Projects\AssemblyGenerator\obj\Debug\net9.0\AssemblyGenerator.pdb
+E:\Projects\AssemblyGenerator\obj\Debug\net9.0\AssemblyGenerator.genruntimeconfig.cache
+E:\Projects\AssemblyGenerator\obj\Debug\net9.0\ref\AssemblyGenerator.dll
